@@ -1,8 +1,8 @@
 library routes;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_project/app/pages/home/home_page.dart';
-import 'package:flutter_project/app/pages/splash/splash_page.dart';
+import 'package:flutter_project/app/pages/home/views/home_page.dart';
+import 'package:flutter_project/app/pages/splash/views/splash_page.dart';
 
 part '../src/app_pages.dart';
 
