@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
           theme: ThemeData(
             primarySwatch: Colors.blue,
             bottomSheetTheme: BottomSheetThemeData(
-              dragHandleColor: AppColors.primary, // Change to desired color
+              dragHandleColor: AppColors.black, // Change to desired color
             ),
           ),
           initialRoute: AppPages.initial,
